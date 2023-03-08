@@ -1,6 +1,6 @@
 @font-face {
     font-family: Ahsing;
-    src:local("assets/fonts/Ahsing-Regular.otf");
+    src:local("./assets/fonts/Ahsing-Regular.otf");
 }
 div{
     font-family: poppins;
