@@ -2,6 +2,10 @@
 $.get("navbar.html", function (data) {
     $("#nav-placeholder").replaceWith(data);
 });
+// Footer global view
+$.get("footer.html", function (data) {
+  $("#footer-placeholder").replaceWith(data);
+});
 
 //scroll down button
 $(function() {
